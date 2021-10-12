@@ -18,3 +18,12 @@ function App() {
 }
 
 export default App;
+/*
+Librerias instaladas:
+npm install react-bootstrap bootstrap
+npm install --save prop-types
+npm install --save gh-pages
+
+Para eliminar el .git 
+rm -rf .git
+*/
